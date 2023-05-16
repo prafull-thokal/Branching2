@@ -6,7 +6,6 @@ public class A {
 	public static void main(String[] args) 
 	{
 		System.out.println("main start");
-		System.out.println(" branch newton");
 		
 		A a = new A();
 		a.mul();
